@@ -43,6 +43,9 @@ class LoanAdmin(admin.ModelAdmin):
 ![alt text](<Screenshot 2024-12-04 191805-1.png>)
 
 
+![Screenshot 2024-12-07 201539](https://github.com/user-attachments/assets/a4ba52e2-b51e-4100-9de7-e791001dfc8e)
+
+
 ![alt text](<Screenshot 2024-12-04 191908.png>)
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
